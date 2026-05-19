@@ -4,7 +4,6 @@
 
 ### About Me:
 
-- 🧑‍💻 I’m currently working at [iNextLabs](https://inextlabs.ai/).
 - 💬 Let's chat about React, TailwindCSS, Monorepo.
 - 🌱 Diving deep into Docker and Kubernetes
 - 👯 Open to collaborating on MERN stack and web applications.
